@@ -4,6 +4,8 @@ A single page website for a food company. Fully responsive and good user interfa
 
 ## Published github pages link
 
+[View Live](https://alleyer16.github.io/Omnifood/)
+
 ## Screenshots
 
 ![Header and Hero Section](/screenshots/1.png)
